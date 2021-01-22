@@ -1,4 +1,6 @@
 #Ex009.2
+#Faça um programa que leia um número inteiro qualquer, e mostre na tela sua tabuada.
+
 number = int(input('Enter a number to see his multiplication table: '))
 print('{:^12}'.format('TABUADA'))
 print('{}'.format('-'*12))

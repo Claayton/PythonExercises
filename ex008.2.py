@@ -1,4 +1,6 @@
 #Ex008.2
+#Escreva um programa que leia um valor em metros, e exiba convertido em centímetros e milímetros.
+
 meters = int(input('Enter a distance in meters: '))
 quilometers = meters / 1000
 hectometers = meters / 100

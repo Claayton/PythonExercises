@@ -1,4 +1,6 @@
 #Ex004.2
+#Faça um programa que leia algo pelo teclado, e mostre na tela seu tipo primitívo e todas as informações sobre ele.
+
 word = input('Type something: ')
 print(f'The primitive type of this value is: {type(word)}')
 print(f'Only have spaces?: {word.isspace()}')

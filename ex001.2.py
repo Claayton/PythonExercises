@@ -1,3 +1,4 @@
 #Ex001.2
-#Este comando imprime o que estiuver escrito entre '', no casa 'Hello World!'
+#Crie um programa que escreva 'Olá Mundo!' na tela:
+
 print('Hello World!')

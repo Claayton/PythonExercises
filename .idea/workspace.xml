@@ -3,27 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1bc0909f-0429-44f4-802b-019b1826dde9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex001.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex001.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex002.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex002.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex003.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex003.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex004.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex004.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex005.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex005.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex006.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex006.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex007.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex007.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex008.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex008.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex009.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex009.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex010.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex010.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex011.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex011.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex012.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex012.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex013.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex013.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex014.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex014.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex015.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex015.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex016.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex016.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex017.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex017.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex018.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex018.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex019.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex019.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex020.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex020.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex021.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex021.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612362662631</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Editados com enunciado em ingles">
+      <created>1612710783485</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612710783485</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +241,8 @@
     <MESSAGE value="News" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Exercícios 03/02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercícios 03/02" />
+    <MESSAGE value="Editados com" />
+    <MESSAGE value="Editados com enunciado em ingles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Editados com enunciado em ingles" />
   </component>
 </project>

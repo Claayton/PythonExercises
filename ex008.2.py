@@ -1,4 +1,4 @@
-#Ex008.2
+# Ex008.2
 """Write a program that read a value in meters, and displays it converted to centimeters and millimeters"""
 
 meters = int(input('Enter a distance in meters: '))

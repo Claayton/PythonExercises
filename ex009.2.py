@@ -1,4 +1,4 @@
-#Ex009.2
+# Ex009.2
 """Write a program that reads any interger, and shows your multiplication table on the screen"""
 
 number = int(input('Enter a number to see his multiplication table: '))

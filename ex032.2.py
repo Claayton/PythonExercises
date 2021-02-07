@@ -1,5 +1,5 @@
-#Ex032.2
-#Faça um programa que leia um ano qualquer, e mostre se ele é ou não BISSEXTO.
+# Ex032.2
+"""Make a program that reads a any year, and shows whether if is LEAP or not """
 
 from datetime import date
 year = int(input('What year do you want to analyze? \nType "0" for the current year: '))

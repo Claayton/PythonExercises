@@ -1,4 +1,4 @@
-#Ex020.2
+# Ex020.2
 """The same teacher from the previous challenge wants to draw the order of presentation of the student's works,
 do a job that reads the names of the four students and shows the order draw"""
 

@@ -1,4 +1,4 @@
-#Ex012.2
+# Ex012.2
 """Make an algorithm that reads the price of a product, and show it's new price with a 5% discount"""
 
 price = float(input('What is the product price?: '))

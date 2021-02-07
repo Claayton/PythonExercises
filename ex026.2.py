@@ -1,8 +1,8 @@
-#Ex026.2
-#Faça um programa que leia uma frase pelo teclado e mostre,
-#Quantas vezes aparece a letra "A",
-#Em que posiçao ela aparece pela primeira vez,
-#Em que posiçao ela aparece pela ultima vez
+# Ex026.2
+"""Make a program that reads a sentence from keyboard, and shows
+The letters 'A' appears many times
+In what positions does she appear for the first time
+In what positions does she appear for the last time"""
 
 sentence = str(input('Type a sentence: ')).strip().upper()
 letter_A = sentence.count('A')

@@ -1,4 +1,4 @@
-#Ex019.2
+# Ex019.2
 """A teacher wants to raffle one of his four students to erase the board, make a program that helps him,
 by reading their name and writing the chosen name"""
 

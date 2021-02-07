@@ -1,4 +1,4 @@
-#Ex006.2
+# Ex006.2
 """Create an algorithm that reads a number and shows it's double, triple and square roots"""
 
 number = int(input('Type a number: '))

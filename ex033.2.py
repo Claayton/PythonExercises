@@ -1,5 +1,5 @@
-#Ex033.2
-#Faça um rpgrama que leia três números, e mostre na tela qual é o maior e qual é o menor.
+# Ex033.2
+"""Make a program that reads three numbers, and shows on the screen which is the largest and which is the smallest"""
 
 number1 = int(input('Enter your first number: '))
 number2 = int(input('Enter your second number: '))

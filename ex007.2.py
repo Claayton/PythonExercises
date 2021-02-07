@@ -1,4 +1,4 @@
-#Ex007.2
+# Ex007.2
 """Develop a program that reads a student's two grades, calculates and displays his average"""
 
 grade1 = float(input("What was the student's first grade?: "))

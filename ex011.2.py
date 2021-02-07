@@ -1,4 +1,4 @@
-#Ex011.2
+# Ex011.2
 """Make a program that reads the width and height of a wall,
 calculate your area and the required amount of paint to paint it,
 knowing that each liter of paint paints an area of 2m²"""

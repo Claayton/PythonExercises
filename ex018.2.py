@@ -1,4 +1,4 @@
-#Ex018.2
+# Ex018.2
 """Make a program that reads any angle, and shows on the screen the value of cine, cosine and tangent fo that angle"""
 
 from math import sin, cos, tan, radians

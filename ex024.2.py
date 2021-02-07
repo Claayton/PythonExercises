@@ -1,5 +1,5 @@
-#Ex024.2
-#Crie um programa que leia o nome de uma cidade, e diga se ela começa ou nao com o nome 'SANTO'
+# Ex024.2
+"""Create a program that reads the name of a city, and says whether or not it starts with the name 'SANTO'"""
 
 city = str(input('Enter the name of a city: ')).strip().upper()
 print('This city starts with "Santo"?: ', end='')

@@ -1,4 +1,4 @@
-#Ex017.2
+# Ex017.2
 """Make a program that reads the length of the opposite leg and the adjacent leg of a right triangle,
 calculate and show the length of the hypo"""
 

@@ -1,7 +1,8 @@
-#Ex029.2
-#Escreva um programa que leia a velocidade de um carro,
-#Se ele ultrapassar a velocidade de 80km/h, mostre uma mensagem dizendo que ele foi multado,
-#A multa vai custar R$7.00 por cada km acima do limite
+# Ex029.2
+"""Write a program that reads the speed of car
+If he exceeds the speed of 80km/h, show a message saying that he was fined
+The fine will coast R$:7.00 for each km above the limit"""
+
 print('=-'*15)
 print('\033[31mRADAR MINHA MULTA MINHA VIDA, SPEED LIMIT: 80Km/h\033[m')
 print('=-'*15)

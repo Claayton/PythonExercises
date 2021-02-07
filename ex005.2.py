@@ -1,4 +1,4 @@
-#Ex005.2
+# Ex005.2
 """Make a program that reads a whole number, and shows your successor and predecessor on the screen"""
 
 number = int(input('Type a number: '))

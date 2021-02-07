@@ -1,4 +1,4 @@
-#Ex010.2
+# Ex010.2
 """Create a program that reads how much money a person has in their wallet, and shows how much dollars they can buy"""
 
 money_in_real = float(input('How much money do you have in your wallet?: '))

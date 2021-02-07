@@ -24,6 +24,18 @@
       <change beforePath="$PROJECT_DIR$/ex019.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex019.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex020.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex020.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex021.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex021.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex022.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex022.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex023.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex023.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex024.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex024.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex025.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex025.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex026.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex026.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex027.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex027.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex028.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex028.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex029.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex029.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex030.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex030.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex031.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex031.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex032.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex032.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex033.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex033.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612362662631</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Editados com enunciado em ingles">
+      <created>1612710783485</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612710783485</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +273,8 @@
     <MESSAGE value="News" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Exercícios 03/02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercícios 03/02" />
+    <MESSAGE value="Editados com" />
+    <MESSAGE value="Editados com enunciado em ingles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Editados com enunciado em ingles" />
   </component>
 </project>

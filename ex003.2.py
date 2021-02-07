@@ -1,4 +1,4 @@
-#Ex003.2
+# Ex003.2
 """Create a program that read two numbers, and shows on the sum between them on the screen """
 
 number1 = int(input('Type a number: '))

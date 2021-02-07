@@ -1,6 +1,6 @@
-#Ex031.2
-#Desenvolva um programa que pergunte a distância de uma viagem am quilômetros,
-#Calcule o preço da passagem, cobrando R$0.50 por km para viagens até 200km, e R$0.45 para viagens mais longas.
+# Ex031.2
+"""Develop a program that asks the distance of a trip in kilometers,
+Calculate the price of the trip, charging R$ 0,50 per km for trips up to 200km, and R$ 0.45 for longer trips"""
 
 distance = float(input('How far is the trip?: '))
 if distance <= 200:

@@ -1,4 +1,4 @@
-#Ex016.2
+# Ex016.2
 """Create a program that reads any real number from the keyboard, and shows its entire portion on the screen"""
 
 from math import trunc

@@ -1,4 +1,4 @@
-#Ex014.2
+# Ex014.2
 """Write a program that converts a entered temperature, from °C to °F"""
 
 temperature = float(input('Inform the temperature in °C: '))

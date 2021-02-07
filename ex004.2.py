@@ -1,4 +1,4 @@
-#Ex004.2
+# Ex004.2
 """Make a program that read something on the keyboard, and shows on the screen it's primitive type,
 and all the information about it"""
 

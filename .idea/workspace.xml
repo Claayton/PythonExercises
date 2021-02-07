@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc0909f-0429-44f4-802b-019b1826dde9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex034.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex033.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex033.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex001.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex001.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex002.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex002.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex003.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex003.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex004.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex004.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex005.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex005.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex006.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex006.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex007.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex007.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex008.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex008.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex009.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex009.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex010.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex010.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex011.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex011.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex012.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex012.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex013.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex013.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex014.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex014.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex015.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex015.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex016.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex016.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex017.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex017.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex018.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex018.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex019.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex019.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex020.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex020.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex021.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex021.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +66,20 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ex033.2">
-    <configuration name="ex029.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex021.2">
+    <configuration name="ex021.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonExerciciosLinux" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex029.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex021.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,19 +173,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ex029.2" />
       <item itemvalue="Python.ex030.2" />
       <item itemvalue="Python.ex031.2" />
       <item itemvalue="Python.ex032.2" />
       <item itemvalue="Python.ex033.2" />
+      <item itemvalue="Python.ex021.2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex021.2" />
         <item itemvalue="Python.ex033.2" />
         <item itemvalue="Python.ex032.2" />
         <item itemvalue="Python.ex031.2" />
         <item itemvalue="Python.ex030.2" />
-        <item itemvalue="Python.ex029.2" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612361856248</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercícios 03/02">
+      <created>1612362662631</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612362662631</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

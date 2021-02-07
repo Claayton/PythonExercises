@@ -1,5 +1,5 @@
-#Ex019.2
-#Faça um rpograma que leia um ângulo qualquer, e mostre na tela o valor de ceno, cosseno e tangente desse ângulo.
+#Ex018.2
+"""Make a program that reads any angle, and shows on the screen the value of cine, cosine and tangent fo that angle"""
 
 from math import sin, cos, tan, radians
 angle = float(input('Type an angle you want: '))

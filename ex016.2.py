@@ -1,5 +1,5 @@
 #Ex016.2
-#Crie um programa que leia um número real qualquer pelo teclado, e mostre na tela sua porção inteira.
+"""Create a program that reads any real number from the keyboard, and shows its entire portion on the screen"""
 
 from math import trunc
 value = float(input('Enter a value: '))

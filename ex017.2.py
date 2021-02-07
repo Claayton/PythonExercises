@@ -1,6 +1,6 @@
 #Ex017.2
-#Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo,
-#Calcule e mostre o comprimento da hipótenusa
+"""Make a program that reads the length of the opposite leg and the adjacent leg of a right triangle,
+calculate and show the length of the hypo"""
 
 from math import hypot
 opposite = float(input('What is the length of the opposite side?: '))

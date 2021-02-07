@@ -1,5 +1,5 @@
 #Ex012.2
-#Faça um algoritmo que leia o preço de um produto, e mostre seu novo preço com 5% de desconto.
+"""Make an algorithm that reads the price of a product, and show it's new price with a 5% discount"""
 
 price = float(input('What is the product price?: '))
 new_price = price - (price * 5 / 100)

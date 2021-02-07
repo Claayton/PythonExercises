@@ -1,5 +1,5 @@
 #Ex003.2
-#Crie um programa que leia dois números, e mostre a soma entre eles.
+"""Create a program that read two numbers, and shows on the sum between them on the screen """
 
 number1 = int(input('Type a number: '))
 number2 = int(input('Type another number: '))

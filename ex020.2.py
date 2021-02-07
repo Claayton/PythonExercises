@@ -1,6 +1,6 @@
 #Ex020.2
-#O mesmo professor do desafio anterior quer sortear a ordem de apresentação dos trabalhos dos alunos,
-#Faça um trabalho que leia o nome dos quatro alunos e mostre a ordem sorteada
+"""The same teacher from the previous challenge wants to draw the order of presentation of the student's works,
+do a job that reads the names of the four students and shows the order draw"""
 
 import random
 name1 = str(input('What the name of the first student?: '))

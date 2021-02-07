@@ -1,6 +1,6 @@
 #Ex019.2
-#Um professor quer sortear um de seus quatro alunos para apagar o quadro.
-#Faça um rpograma que ajude ele, lendo o nome deles e escrevendo o nome escolhido.
+"""A teacher wants to raffle one of his four students to erase the board, make a program that helps him,
+by reading their name and writing the chosen name"""
 
 from random import choice
 name1 = str(input('What is the name of the first student?: '))

@@ -1,5 +1,5 @@
 #Ex010.2
-#Crie um programa que leia quanto dinheiro uma pessoa tem na carteira, e mostre quantos dólares ela pode comprar.
+"""Create a program that reads how much money a person has in their wallet, and shows how much dollars they can buy"""
 
 money_in_real = float(input('How much money do you have in your wallet?: '))
 money_in_dollar = money_in_real / 3.27

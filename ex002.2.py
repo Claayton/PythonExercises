@@ -1,5 +1,5 @@
 #Ex002.2
-#Faça um programa que leia o nome de uma pessoa, e mostre uma mensagem de boas vindas.
+"""Make a program that reads a person's name, and shows a welcome message"""
 
 name = str(input('Type your name: '))
 print(f'Nice to meet you, {name}!')

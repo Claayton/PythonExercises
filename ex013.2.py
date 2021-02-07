@@ -1,5 +1,5 @@
 #Ex013.2
-#Faça um algoritmo que leia o salário de um funcionário, e mostre seu novo salário com 15% de aumento.
+"""Make an algorithm that reads an employee's salary, and shows his new salary with a 15% increase"""
 
 salary = float(input("Type the employee's salary: "))
 increase = salary * 15 / 100

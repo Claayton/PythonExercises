@@ -1,5 +1,5 @@
 #Ex006.2
-#Crie um algorítmo que leia um número e mostre seu dobro, tríplo e raíz quadrada.
+"""Create an algorithm that reads a number and shows it's double, triple and square roots"""
 
 number = int(input('Type a number: '))
 double = number * 2

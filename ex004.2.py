@@ -1,5 +1,6 @@
 #Ex004.2
-#Faça um programa que leia algo pelo teclado, e mostre na tela seu tipo primitívo e todas as informações sobre ele.
+"""Make a program that read something on the keyboard, and shows on the screen it's primitive type,
+and all the information about it"""
 
 word = input('Type something: ')
 print(f'The primitive type of this value is: {type(word)}')

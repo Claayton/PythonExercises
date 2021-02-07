@@ -1,5 +1,5 @@
 #Ex014.2
-#Escreva um programa que converta uma temperatura digitada, de °C para °F.
+"""Write a program that converts a entered temperature, from °C to °F"""
 
 temperature = float(input('Inform the temperature in °C: '))
 new_temperature = (temperature * 9 / 5) + 32

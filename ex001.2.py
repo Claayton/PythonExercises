@@ -1,4 +1,4 @@
 #Ex001.2
-#Crie um programa que escreva 'Olá Mundo!' na tela:
+"""Create a program that writes "Hello World!" on the screen"""
 
 print('Hello World!')

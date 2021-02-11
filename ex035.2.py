@@ -9,7 +9,6 @@ second = float(input('Second segment: '))
 third = float(input('third segment: '))
 list = [first, second, third]
 list = sorted(list)
-print(list)
 if list[0] + list[1] > list[2]:
     print('The above segments CAN form a triangle')
 else:

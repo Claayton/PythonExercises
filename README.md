@@ -8,7 +8,7 @@ While I study Python, I take the opportunity to learn a little more about Git an
 	Ex001: ‘Create a program that writes "Hello World!" on the screen’
 	Ex002: ‘Make a program that reads a person's name, and shows a welcome message’
 
-### Primitive types, and data outputs:
+### Primitive types and data outputs:
 	Ex003: ‘Create a program that read two numbers, and shows on the sum between them on the screen’
 	Ex004: ‘Make a program that read something on the keyboard, and shows on the screen it's primitive type, and all the information about it’
 

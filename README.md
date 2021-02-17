@@ -1,7 +1,7 @@
 # Resolving the exercises in Python of ‘Curso em Video’
-Teacher Gustavo Guanabara
 
-While I study Python, I take the opportunity to learn a little more about Git and GitHub, and I also brush up on my English in the exercises.
+For being in the learning process for some time, and to improve my knowledge in programming, I remade all the exercises in "Gustavo Guanabara's Python Video Course.
+To add even more knowledge and make the most of my time, I'm doing the entire project in English (forgive any mistakes), and in the process also learning a little more about Git and GitHub.
 
 ## WORLD 01:
 ### First commands:

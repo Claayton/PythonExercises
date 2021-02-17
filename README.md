@@ -1,7 +1,9 @@
 # Resolving the exercises in Python of ‘Curso em Video’
 
-For being in the learning process for some time, and to improve my knowledge in programming, I remade all the exercises of "Curso em Vídeo - Python" by Gustavo Guanabara.
-To add even more knowledge and make the most of my time, I'm doing the entire project in English (forgive any mistakes), and in the process also learning a little more about Git and GitHub.
+For being in the learning process for some time, and to improve my knowledge in programming
+I remade all the exercises of "Curso em Vídeo - Python" by Gustavo Guanabara.
+To add even more knowledge and make the most of my time, I'm doing the entire project in English (forgive any mistakes),
+And in the process also learning a little more about Git and GitHub.
 
 ## WORLD 01:
 ### First commands:

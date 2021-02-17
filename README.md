@@ -1,18 +1,18 @@
-#Resolving the exercises in Python of ‘Curso em Video’
+# Resolving the exercises in Python of ‘Curso em Video’
 Teacher Gustavo Guanabara
 
 While I study Python, I take the opportunity to learn a little more about Git and GitHub, and I also brush up on my English in the exercises.
 
-##WORLD 01:
-###First commands:
+## WORLD 01:
+### First commands:
 	Ex001: ‘Create a program that writes "Hello World!" on the screen’
 	Ex002: ‘Make a program that reads a person's name, and shows a welcome message’
 
-###Primitive types, and data outputs:
+### Primitive types, and data outputs:
 	Ex003: ‘Create a program that read two numbers, and shows on the sum between them on the screen’
 	Ex004: ‘Make a program that read something on the keyboard, and shows on the screen it's primitive type, and all the information about it’
 
-###Arithmetic operators:
+### Arithmetic operators:
 	Ex005: ‘Make a program that reads a whole number, and shows your successor and predecessor on the screen’
 	Ex006: ‘Create an algorithm that reads a number and shows it's double, triple and square roots’
 	Ex007: ‘Develop a program that reads a student's two grades, calculates and displays his average’
@@ -27,7 +27,7 @@ knowing that each liter of paint paints an area of 2m²’
 	Ex014: ‘Write a program that converts a entered temperature, from °C to °F’
 	Ex015: ‘Write a program that asks the number of kilometers traveled by a rental car and the number of days it was rented, calculate the price to pay, knowing that the car coast R$60.00 per day, and R$0.15 per km driven’
 
-###Using modules: 
+### Using modules: 
 	Ex016: ‘Create a program that reads any real number from the keyboard, and shows its entire portion on the screen’
 	Ex017: ‘Make a program that reads the length of the opposite leg and the adjacent leg of a right triangle, calculate and show the length of the hypo’
 	Ex018: ‘Make a program that reads any angle, and shows on the screen the value of cine, cosine and tangent of that angle’
@@ -35,7 +35,7 @@ knowing that each liter of paint paints an area of 2m²’
 	Ex020: ‘The same teacher from the previous challenge wants to draw the order of presentation of the student's works, do a job that reads the names of the four students and shows the order draw’
 	Ex021: ‘Make a python program that opens and plays audio from an mp3 file’
 
-###Manipulating text:
+### Manipulating text:
 	Ex022: ‘Create a program that reads a person's full name and show:
 The name with all uppercase and lowercase letters
 How many letters have the name without considering spaces
@@ -49,7 +49,7 @@ In what positions does she appear for the first time
 In what positions does she appear for the last time’
 	Ex027: ‘Make a program that reads a person's full name, then show the first and last names separately’
 
-###Conditions part 01:
+### Conditions part 01:
 	Ex028: ‘Writes a program that makes the computer 'think' of an integer between 0 and 5
 And ask the user to try to find out what number was chosen by the computer
 The program should write on the screen if the user won or lost the game’
@@ -66,11 +66,11 @@ For salaries greater than R$ 1250.00, calculate an increase of 10%
 For less than of equals, the increases is 15%’
 	Ex035: ‘Develop a program that reads the length of three lines, and tell the user whether or not they can form a triangle’
 
-###Colors at the terminal:
+### Colors at the terminal:
 	Is already included in some of the exercises.
 
-##WORLD 02:
-###Nested conditions:
+## WORLD 02:
+### Nested conditions:
 	Ex036: ‘Write a program to approve the bank loan for the purchase of a house
 Ask the value of the house, the buyer's salary and how many years he will pay
 The monthly installment cannot exceed 30% of the salary or the loan will be denied’
@@ -118,7 +118,7 @@ Up to 2 x on credit card: normal price
 3 x or more on credit card: 20% interest’
 	Ex045: ‘Create a program that makes the computer play JOKENPÔ with you’
 
-###Repeat structure ‘for’:
+### Repeat structure ‘for’:
 	Ex046: ‘Make a program that shows on the screen a countdown to the fireworks burst,
 Going from 10 to 0 with a pause of 1 second between them’
 	Ex047: ‘Create a program that shows on the screen all the even numbers that are in the interval between 1 and 50.’

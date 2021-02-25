@@ -123,4 +123,10 @@ And in the process also learning a little more about Git and GitHub.
 		Going from 10 to 0 with a pause of 1 second between them’
 	Ex047: ‘Create a program that shows on the screen all the even numbers that are in the interval between 1 and 50.’
 	Ex048: ‘Make a program that calculate the sum of all odd numbers that are multiples of 3, and are in the range 1 to 500’
-	Ex049: ‘
+	Ex049: ‘Redo exercises 09 showing the multiplication table of a number that user choses, only now using a 'for' loop’
+	Ex050: 'Develop a program that reads six integers and shows the sum only of those that are even,
+		If the value entered is odd, disregard it'
+	Ex051: 'Develop a program that reads the first term and the ratio of a PA, at the end,
+		Show the first 10 terms of this progression'
+	Ex052: 'Make a program that reads an integer and tells you whether or not it is a prime number'
+	Ex053: '

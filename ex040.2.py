@@ -1,5 +1,5 @@
 # Ex040.2
-"""Create a program that reads two notes from a student and calculates their average,
+"""Create a program that reads two grades from a student and calculates their average,
 Showing a message at the end, according to the average reached:
 Average below 5.0: FAIL
 Average between 5.0 and 6.9: RECOVERY

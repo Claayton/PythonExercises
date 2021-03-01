@@ -132,4 +132,6 @@ And in the process also learning a little more about Git and GitHub.
 	Ex053: 'Create a program that reads any sentence and tells if it is a palindrome, disregarding the spaces'
 	Ex054: 'Create a program that reads the year of birth of seven people, at the end,
 		Show how many people are not yet of age and how many are already older'
-	Ex055: '
+	Ex055: 'Make a program that reads the weight of five people.
+		At the end, show which was the highest and lowest weight read.'
+	Ex056: '

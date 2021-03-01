@@ -17,3 +17,4 @@ for p in range(1, 6):
         lowest_weight = weight
 print(f'The highest weight is the {highest}° person with {highest_weight:.2f}Kg')
 print(f'The lowest weight is the {lowest}° person with {lowest_weight:.2f}Kg')
+# não terminado

@@ -4,7 +4,7 @@ If he exceeds the speed of 80km/h, show a message saying that he was fined
 The fine will coast R$:7.00 for each km above the limit"""
 
 print('=-'*15)
-print('\033[31mRADAR MINHA MULTA MINHA VIDA, SPEED LIMIT: 80Km/h\033[m')
+print('\033[31mRADAR MY FINE, MY LIFE, SPEED LIMIT: 80Km/h\033[m')
 print('=-'*15)
 speed = float(input('What is de current speed of the car?: '))
 if speed > 80:

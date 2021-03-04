@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0c6735b-b41f-40d2-81c7-6c8a7219230e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ex056.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex057.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex058.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex059.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex060.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex061.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex062.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex063.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex053.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex053.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex055.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex055.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +39,7 @@
   </component>
   <component name="ProjectId" id="1oKszOZ1uTWJKisHUQQVDLBFOU9" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -41,10 +50,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.ex053.2">
-    <configuration name="ex049.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex062.2">
+    <configuration name="ex058.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonExerciciosLinux" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex049.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex058.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex050.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex059.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonExerciciosLinux" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex050.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex059.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex051.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex060.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonExerciciosLinux" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex051.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex060.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex052.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex061.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonExerciciosLinux" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex052.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex061.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex053.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex062.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonExerciciosLinux" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex053.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex062.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,19 +159,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ex049.2" />
-      <item itemvalue="Python.ex050.2" />
-      <item itemvalue="Python.ex051.2" />
-      <item itemvalue="Python.ex052.2" />
-      <item itemvalue="Python.ex053.2" />
+      <item itemvalue="Python.ex058.2" />
+      <item itemvalue="Python.ex059.2" />
+      <item itemvalue="Python.ex060.2" />
+      <item itemvalue="Python.ex061.2" />
+      <item itemvalue="Python.ex062.2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex053.2" />
-        <item itemvalue="Python.ex052.2" />
-        <item itemvalue="Python.ex051.2" />
-        <item itemvalue="Python.ex050.2" />
-        <item itemvalue="Python.ex049.2" />
+        <item itemvalue="Python.ex062.2" />
+        <item itemvalue="Python.ex061.2" />
+        <item itemvalue="Python.ex060.2" />
+        <item itemvalue="Python.ex059.2" />
+        <item itemvalue="Python.ex058.2" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +233,28 @@
       <option name="project" value="LOCAL" />
       <updated>1613487514996</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1614567552485</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614567552485</updated>
+    </task>
+    <task id="LOCAL-00009" summary="01-03">
+      <created>1614610894058</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614610894058</updated>
+    </task>
+    <task id="LOCAL-00010" summary="01-03">
+      <created>1614616381206</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614616381206</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +276,8 @@
     <MESSAGE value="13/02" />
     <MESSAGE value="15/02" />
     <MESSAGE value="16-02" />
-    <option name="LAST_COMMIT_MESSAGE" value="16-02" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="01-03" />
+    <option name="LAST_COMMIT_MESSAGE" value="01-03" />
   </component>
 </project>

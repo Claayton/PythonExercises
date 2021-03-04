@@ -12,7 +12,7 @@ print('\033[7:30:47m-\033[m' * 40)
 price = float(input('Purchase price: '))
 print(f"""\033[7:30:47m{'PAYMENT METHODS:':=^40}\033[m
 \033[30:47m[ 1 ]\033[m - CASH/CHECK
-\033[30:47m[ 2 ]\033[m - C\033[mASH ON CREDIT CARD
+\033[30:47m[ 2 ]\033[m - C\033[mCASH ON CREDIT CARD
 \033[30:47m[ 3 ]\033[m - 2X ON CREDIT CARD
 \033[30:47m[ 4 ]\033[m - 3X OR MORE ON CREDIT CARD""")
 print('\033[7:30:47m-\033[m' * 40)

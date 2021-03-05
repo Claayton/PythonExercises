@@ -134,4 +134,29 @@ And in the process also learning a little more about Git and GitHub.
 		Show how many people are not yet of age and how many are already older'
 	Ex055: 'Make a program that reads the weight of five people.
 		At the end, show which was the highest and lowest weight read.'
-	Ex056: '
+	Ex056: 'Develop a program that reads the name, age and sex of for people. At the end of the program, show:
+		The average age of the group,
+		What's the name of the older man,
+		How many women are under 20.'
+	Ex057: 'Make a program that reads the gender of a person, but only accepts the values 'M' of 'F'.
+		If it is wrong, ask for the typing again until it has a correct value.'
+	Ex058: 'Improve de game of challenge 028.2, where the computer will 'think' of a number from 0 to 10.
+		But now the player falls trying to add until he gets it right, showing in the end how many guesses it took to win.'
+	Ex059: 'Create a program that reads two values and show the folowing menu:
+		[1] Add
+		[2] Multiply
+		[3] Bigger
+		[4] Nem numbers
+		[5] Exit the program
+		Your program should perform the requested operation in each case.'
+	Ex060: 'Make a program that reads any number and shows its factorial.
+		Ex: 5! = 5 x 4 x 3 x 2 x 1 = 120.'
+	Ex061: 'Redo challenge 061, reading the first term and the ratio of an PA
+		Showing the first 10 terms of the progression using the while function.'
+	Ex062: 'Improve challenge 061 by asking the user if he wants to show some more terms.
+		The program will close when he says he wants to show '0' terms.'
+	Ex063: 'Write a program that reads a number and integer 'n',
+		And show on the screen the 'n' first elements of a fibonacci sequence.
+		Ex: 0 > 1 > 1 > 2 > 3 > 5 > 8.'
+	Ex064: '
+	

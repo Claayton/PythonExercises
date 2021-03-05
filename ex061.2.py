@@ -1,6 +1,6 @@
 # Ex061.2
 """Redo challenge 061, reading the first term and the ratio of an PA
-Showing the first 10 terms of the progression using the while function"""
+Showing the first 10 terms of the progression using the while function."""
 
 cont = 0
 pa = 0

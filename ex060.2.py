@@ -1,6 +1,6 @@
 # Ex060.2
 """Make a program that reads any number and shows its factorial.
-Ex: 5! = 5 x 4 x 3 x 2 x 1 = 120"""
+Ex: 5! = 5 x 4 x 3 x 2 x 1 = 120."""
 
 cont = 0
 result = 1

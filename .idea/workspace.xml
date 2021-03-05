@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0c6735b-b41f-40d2-81c7-6c8a7219230e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex056.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex057.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex058.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex059.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex060.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex061.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex062.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex063.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex055.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex055.2.py" afterDir="false" />
-    </list>
+    <list default="true" id="f0c6735b-b41f-40d2-81c7-6c8a7219230e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614616381206</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="05-03">
+      <created>1614962062904</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614962062904</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,6 +274,7 @@
     <MESSAGE value="16-02" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="01-03" />
-    <option name="LAST_COMMIT_MESSAGE" value="01-03" />
+    <MESSAGE value="05-03" />
+    <option name="LAST_COMMIT_MESSAGE" value="05-03" />
   </component>
 </project>

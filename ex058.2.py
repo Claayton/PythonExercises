@@ -1,6 +1,6 @@
 # Ex058.2
 """Improve de game of challenge 028.2, where the computer will 'think' of a number from 0 to 10.
-But now the player falls trying to add until he gets it right, showing in the end how many guesses it took to win"""
+But now the player falls trying to add until he gets it right, showing in the end how many guesses it took to win."""
 
 from random import randint
 from time import sleep

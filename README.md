@@ -155,5 +155,8 @@ And in the process also learning a little more about Git and GitHub.
 		Showing the first 10 terms of the progression using the while function.'
 	Ex062: 'Improve challenge 061 by asking the user if he wants to show some more terms.
 		The program will close when he says he wants to show '0' terms.'
-	Ex063: '
+	Ex063: 'Write a program that reads a number and integer 'n',
+		And show on the screen the 'n' first elements of a fibonacci sequence.
+		Ex: 0 > 1 > 1 > 2 > 3 > 5 > 8.'
+	Ex064: '
 	

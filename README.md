@@ -21,18 +21,21 @@ And in the process also learning a little more about Git and GitHub.
 	Ex008: ‘Write a program that read a value in meters, and displays it converted to centimeters and millimeters’
 	Ex009: ‘Write a program that reads any integer, and shows your multiplication table on the screen’
 	Ex010: ‘Create a program that reads how much money a person has in their wallet, and shows how much dollars they can buy’
-	Ex011: ‘Make a program that reads the width and height of a wall, calculate your area and the required amount of paint to paint it, knowing that each liter of paint paints an area of 2m²’
+	Ex011: ‘Make a program that reads the width and height of a wall, calculate your area and the required amount of paint to paint it,
+		Knowing that each liter of paint paints an area of 2m²’
 	Ex012: ‘Make an algorithm that reads the price of a product, and show it's new price with a 5% discount’
 	Ex013: ‘Make an algorithm that reads an employee's salary, and shows his new salary with a 15% increase’
 	Ex014: ‘Write a program that converts a entered temperature, from °C to °F’
-	Ex015: ‘Write a program that asks the number of kilometers traveled by a rental car and the number of days it was rented, calculate the price to pay, knowing that the car coast R$60.00 per day, and R$0.15 per km driven’
+	Ex015: ‘Write a program that asks the number of kilometers traveled by a rental car and the number of days it was rented, calculate the price to pay,
+		Knowing that the car coast R$60.00 per day, and R$0.15 per km driven’
 
 ### Using modules: 
 	Ex016: ‘Create a program that reads any real number from the keyboard, and shows its entire portion on the screen’
 	Ex017: ‘Make a program that reads the length of the opposite leg and the adjacent leg of a right triangle, calculate and show the length of the hypo’
 	Ex018: ‘Make a program that reads any angle, and shows on the screen the value of cine, cosine and tangent of that angle’
 	Ex019: ‘A teacher wants to raffle one of his four students to erase the board, make a program that helps him, by reading their name and writing the chosen name’
-	Ex020: ‘The same teacher from the previous challenge wants to draw the order of presentation of the student's works, do a job that reads the names of the four students and shows the order draw’
+	Ex020: ‘The same teacher from the previous challenge wants to draw the order of presentation of the student's works
+		Do a job that reads the names of the four students and shows the order draw’
 	Ex021: ‘Make a python program that opens and plays audio from an mp3 file’
 
 ### Manipulating text:

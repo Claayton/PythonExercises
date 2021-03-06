@@ -175,4 +175,6 @@ And in the process also learning a little more about Git and GitHub.
 	Ex066: 'Create a program that reads several integers from the keyboard.
 		The program will only stop when the user types '999', which is the stop condition.
 		At the end, show how many numbers were entered and what was the sum beteween them (disregarding the flag).'
-	Ex067: '
+	Ex067: 'Make a program that shows the multiplication table of severel numbers one at a time, for each value entered by the user.
+		The program will be interupted when the requested number is negative.'
+	Ex068: '

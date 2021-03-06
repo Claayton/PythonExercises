@@ -12,7 +12,8 @@ And in the process also learning a little more about Git and GitHub.
 
 ### Primitive types and data outputs:
 	Ex003: ‘Create a program that read two numbers, and shows on the sum between them on the screen’
-	Ex004: ‘Make a program that read something on the keyboard, and shows on the screen it's primitive type, and all the information about it’
+	Ex004: ‘Make a program that read something on the keyboard,
+		And shows on the screen it's primitive type, and all the information about it’
 
 ### Arithmetic operators:
 	Ex005: ‘Make a program that reads a whole number, and shows your successor and predecessor on the screen’
@@ -21,18 +22,23 @@ And in the process also learning a little more about Git and GitHub.
 	Ex008: ‘Write a program that read a value in meters, and displays it converted to centimeters and millimeters’
 	Ex009: ‘Write a program that reads any integer, and shows your multiplication table on the screen’
 	Ex010: ‘Create a program that reads how much money a person has in their wallet, and shows how much dollars they can buy’
-	Ex011: ‘Make a program that reads the width and height of a wall, calculate your area and the required amount of paint to paint it, knowing that each liter of paint paints an area of 2m²’
+	Ex011: ‘Make a program that reads the width and height of a wall, calculate your area and the required amount of paint to paint it,
+		Knowing that each liter of paint paints an area of 2m²’
 	Ex012: ‘Make an algorithm that reads the price of a product, and show it's new price with a 5% discount’
 	Ex013: ‘Make an algorithm that reads an employee's salary, and shows his new salary with a 15% increase’
 	Ex014: ‘Write a program that converts a entered temperature, from °C to °F’
-	Ex015: ‘Write a program that asks the number of kilometers traveled by a rental car and the number of days it was rented, calculate the price to pay, knowing that the car coast R$60.00 per day, and R$0.15 per km driven’
+	Ex015: ‘Write a program that asks the number of kilometers traveled by a rental car and the number of days it was rented,
+		Calculate the price to pay, knowing that the car coast R$60.00 per day, and R$0.15 per km driven’
 
 ### Using modules: 
 	Ex016: ‘Create a program that reads any real number from the keyboard, and shows its entire portion on the screen’
-	Ex017: ‘Make a program that reads the length of the opposite leg and the adjacent leg of a right triangle, calculate and show the length of the hypo’
+	Ex017: ‘Make a program that reads the length of the opposite leg and the adjacent leg of a right triangle,
+		Calculate and show the length of the hypo.’
 	Ex018: ‘Make a program that reads any angle, and shows on the screen the value of cine, cosine and tangent of that angle’
-	Ex019: ‘A teacher wants to raffle one of his four students to erase the board, make a program that helps him, by reading their name and writing the chosen name’
-	Ex020: ‘The same teacher from the previous challenge wants to draw the order of presentation of the student's works, do a job that reads the names of the four students and shows the order draw’
+	Ex019: ‘A teacher wants to raffle one of his four students to erase the board, make a program that helps him,
+		By reading their name and writing the chosen name’
+	Ex020: ‘The same teacher from the previous challenge wants to draw the order of presentation of the student's works
+		Do a job that reads the names of the four students and shows the order draw’
 	Ex021: ‘Make a python program that opens and plays audio from an mp3 file’
 
 ### Manipulating text:
@@ -138,6 +144,7 @@ And in the process also learning a little more about Git and GitHub.
 		The average age of the group,
 		What's the name of the older man,
 		How many women are under 20.'
+### ‘while’ Repititions:
 	Ex057: 'Make a program that reads the gender of a person, but only accepts the values 'M' of 'F'.
 		If it is wrong, ask for the typing again until it has a correct value.'
 	Ex058: 'Improve de game of challenge 028.2, where the computer will 'think' of a number from 0 to 10.
@@ -158,5 +165,18 @@ And in the process also learning a little more about Git and GitHub.
 	Ex063: 'Write a program that reads a number and integer 'n',
 		And show on the screen the 'n' first elements of a fibonacci sequence.
 		Ex: 0 > 1 > 1 > 2 > 3 > 5 > 8.'
-	Ex064: '
-	
+	Ex064: 'Create a program that reads several integers from the keyboard.
+		The program will only stop when the user enters the value '999', wich is the stop condition.
+		At the end, show how many numbers were entered and what was the sum between them (disregarding the flag).'
+	Ex065: 'Create a program that reads several integers from the keyboard.
+		At the end of the run, show the average of all values and which was the highest and lowest values read.
+		The program should ask the user whether or not he wants to continue to the values.'
+### Interupting ‘while’ repititions:
+	Ex066: 'Create a program that reads several integers from the keyboard.
+		The program will only stop when the user types '999', which is the stop condition.
+		At the end, show how many numbers were entered and what was the sum beteween them (disregarding the flag).'
+	Ex067: 'Make a program that shows the multiplication table of severel numbers one at a time, for each value entered by the user.
+		The program will be interupted when the requested number is negative.'
+	Ex068: 'Make a program that plays even or odd with the computer.
+		The game will only be interrupted when the player LOSES, showing the total of consecutive victories that he won at the end of the game.'
+	Ex069: '

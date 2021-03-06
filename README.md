@@ -138,6 +138,7 @@ And in the process also learning a little more about Git and GitHub.
 		The average age of the group,
 		What's the name of the older man,
 		How many women are under 20.'
+### ‘While’ Repitition
 	Ex057: 'Make a program that reads the gender of a person, but only accepts the values 'M' of 'F'.
 		If it is wrong, ask for the typing again until it has a correct value.'
 	Ex058: 'Improve de game of challenge 028.2, where the computer will 'think' of a number from 0 to 10.

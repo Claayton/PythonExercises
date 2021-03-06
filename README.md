@@ -26,14 +26,16 @@ And in the process also learning a little more about Git and GitHub.
 	Ex012: ‘Make an algorithm that reads the price of a product, and show it's new price with a 5% discount’
 	Ex013: ‘Make an algorithm that reads an employee's salary, and shows his new salary with a 15% increase’
 	Ex014: ‘Write a program that converts a entered temperature, from °C to °F’
-	Ex015: ‘Write a program that asks the number of kilometers traveled by a rental car and the number of days it was rented, calculate the price to pay,
-		Knowing that the car coast R$60.00 per day, and R$0.15 per km driven’
+	Ex015: ‘Write a program that asks the number of kilometers traveled by a rental car and the number of days it was rented,
+		Calculate the price to pay, knowing that the car coast R$60.00 per day, and R$0.15 per km driven’
 
 ### Using modules: 
 	Ex016: ‘Create a program that reads any real number from the keyboard, and shows its entire portion on the screen’
-	Ex017: ‘Make a program that reads the length of the opposite leg and the adjacent leg of a right triangle, calculate and show the length of the hypo’
+	Ex017: ‘Make a program that reads the length of the opposite leg and the adjacent leg of a right triangle,
+		Calculate and show the length of the hypo.’
 	Ex018: ‘Make a program that reads any angle, and shows on the screen the value of cine, cosine and tangent of that angle’
-	Ex019: ‘A teacher wants to raffle one of his four students to erase the board, make a program that helps him, by reading their name and writing the chosen name’
+	Ex019: ‘A teacher wants to raffle one of his four students to erase the board, make a program that helps him,
+		By reading their name and writing the chosen name’
 	Ex020: ‘The same teacher from the previous challenge wants to draw the order of presentation of the student's works
 		Do a job that reads the names of the four students and shows the order draw’
 	Ex021: ‘Make a python program that opens and plays audio from an mp3 file’

@@ -138,7 +138,7 @@ And in the process also learning a little more about Git and GitHub.
 		The average age of the group,
 		What's the name of the older man,
 		How many women are under 20.'
-### ‘While’ Repitition
+### ‘while’ Repititions:
 	Ex057: 'Make a program that reads the gender of a person, but only accepts the values 'M' of 'F'.
 		If it is wrong, ask for the typing again until it has a correct value.'
 	Ex058: 'Improve de game of challenge 028.2, where the computer will 'think' of a number from 0 to 10.
@@ -159,5 +159,14 @@ And in the process also learning a little more about Git and GitHub.
 	Ex063: 'Write a program that reads a number and integer 'n',
 		And show on the screen the 'n' first elements of a fibonacci sequence.
 		Ex: 0 > 1 > 1 > 2 > 3 > 5 > 8.'
-	Ex064: '
-	
+	Ex064: 'Create a program that reads several integers from the keyboard.
+		The program will only stop when the user enters the value '999', wich is the stop condition.
+		At the end, show how many numbers were entered and what was the sum between them (disregarding the flag).'
+	Ex065: 'Create a program that reads several integers from the keyboard.
+		At the end of the run, show the average of all values and which was the highest and lowest values read.
+		The program should ask the user whether or not he wants to continue to the values.'
+### Interupting ‘while’ repititions:
+	Ex066: 'Create a program that reads several integers from the keyboard.
+		The program will only stop when the user types '999', which is the stop condition.
+		At the end, show how many numbers were entered and what was the sum beteween them (disregarding the flag).'
+	Ex067: '

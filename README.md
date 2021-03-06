@@ -178,4 +178,5 @@ And in the process also learning a little more about Git and GitHub.
 	Ex067: 'Make a program that shows the multiplication table of severel numbers one at a time, for each value entered by the user.
 		The program will be interupted when the requested number is negative.'
 	Ex068: 'Make a program that plays even or odd with the computer.
-	The game will only be interrupted when the player LOSES, showing the total of consecutive victories that he won at the end of the game.'
+		The game will only be interrupted when the player LOSES, showing the total of consecutive victories that he won at the end of the game.'
+	Ex069: '

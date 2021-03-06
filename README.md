@@ -12,7 +12,8 @@ And in the process also learning a little more about Git and GitHub.
 
 ### Primitive types and data outputs:
 	Ex003: ‘Create a program that read two numbers, and shows on the sum between them on the screen’
-	Ex004: ‘Make a program that read something on the keyboard, and shows on the screen it's primitive type, and all the information about it’
+	Ex004: ‘Make a program that read something on the keyboard,
+		And shows on the screen it's primitive type, and all the information about it’
 
 ### Arithmetic operators:
 	Ex005: ‘Make a program that reads a whole number, and shows your successor and predecessor on the screen’

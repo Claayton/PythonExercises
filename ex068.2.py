@@ -4,36 +4,34 @@ The game will only be interrupted when the player LOSES,
 Showing the total of consecutive victories that he won at the end of the game."""
 
 from random import randint
-final_result = 'WON'
 cont = 0
 while True:
-  if final_result != 'WON':
-    break
-  print('\033[7m[0] EVEN \033[m\n\033[7m[1] ODD  \033[m')
-  usu_choose = int(input('Make your choice: '))
+  print(f'\033[7;30;47m{"EVEN [0]":^25}\033[m\n\033[7;30;47m{"ODD [1]":^25}\033[m')
+  usu_choose = int(input('Make you choice: \033[32m'))
   if usu_choose == 0:
-    pc_choose = 1
+    usu_choose = 'EVEN'
+    pc_choose = 'ODD'
+  elif usu_choose == 1:
+    usu_choose = 'ODD'
+    pc_choose = 'EVEN'
   else:
-    pc_choose = 0
-  print(f'You choice \033[32m{usu_choose}\033[m, and PC choose \033[32m{pc_choose}\033[m')
-  usu_number = int(input('Choose your number: '))
+    print(f'\033[1;31;40m{"INVALID CHOICE":^25}\033[m')
+    break
+  print(f'\033[mYou chose: \033[32m{usu_choose}\033[m\nPC chose: \033[32m{pc_choose}\033[m')
+  print(f'\033[40m{" ":^25}\033[m')
+  usu_number = int(input('You choose the number: \033[32m'))
   pc_number = randint(0, 10)
-  print(f'You choose \033[32m{usu_number}\033[m and the PC choose \033[32m{pc_number}\033[m')
-  if usu_choose == 0:
-    if usu_number + pc_number % 2 == 0:
-      print('\033[31mWON, PLAY AGAIN\033[m')
-      final_result = 'Won'
-      cont += 1
-    else:
-      print('\033[31mLOST SUCKER\033[m')
-      final_result = 'LOST'
-  if usu_choose == 1:
-    if usu_number + pc_number % 2 == 1:
-      print('\033[32mWON, PLAY AGAIN\033[m')
-      final_result = 'Won'
-      cont += 1
-    else:
-      print('\033[31mLOST SUCKER\033[m')
-      final_result = 'LOST'
+  print(f'\033[mPC choose the number: \033[32m{pc_number}\033[m')
+  sum = usu_number + pc_number
+  if sum % 2 == 0:
+    result = 'EVEN'
+  else:
+    result = 'ODD'
+  print(f'The sum is: \033[32m{sum}\033[m (\033[32m{result}\033[m)')
+  if usu_choose == result:
+    print(f'\033[1;32;40m{"WON, PLAY AGAIN":^25}\033[m')
+    cont += 1
+  else:
+    print(f'\033[1;31;40m{"LOST SUCKER":^25}\033[m')
+    break
 print(f'\033[32mYou WON {cont} times.\033[m')
-# não terminei ainda essa merda dos infernos puta que pariu, da primeira que eu fiz foi facil, agora t dificil

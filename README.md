@@ -179,4 +179,22 @@ And in the process also learning a little more about Git and GitHub.
 		The program will be interupted when the requested number is negative.'
 	Ex068: 'Make a program that plays even or odd with the computer.
 		The game will only be interrupted when the player LOSES, showing the total of consecutive victories that he won at the end of the game.'
-	Ex069: '
+	Ex069: 'Create a program that reads the age and sex of several people.
+		For each registered person, the program must ask if the user wants to continue or not.
+		At the end show:
+		How many people are over 18;
+		How many men were registered;
+		How many women are under 20.'
+	Ex070: 'Create a program that reads the name and price of various products.
+		The program should ask if the user will continue.
+		At the end, show:
+		What is the total spend on the purchase
+		How many products coast more than R$: 1000.00
+		What is the cheapest product name.'
+	Ex071: 'Create a program that simulates the functioning of an ATM.
+		At the beginning, ask the user what will be the amount to be withdraw (whole number)
+		And the program will inform how many bills of each amount will be delivered.
+		NOTE: Consider that the cashier has bills of R$50, R$20, R$10, R$1.'
+		
+## WORLD 03:
+###

@@ -1,9 +1,11 @@
 # Resolving the exercises from "Curso em Vídeo - Python"
 
-For being in the learning process for some time, and to improve my knowledge in programming
-I remade all the exercises from "Curso em Vídeo - Python" by Gustavo Guanabara.
-To add even more knowledge and make the most of my time, I'm doing the entire project in English (forgive any mistakes),
+As I have been in the learning process since the end of 2020, and to improve my knowledge of programming,
+I remade all exercises from "Curso em Vídeo - Python" by Gustavo Guanabara.
+To add even more knowledge and make the most of my time, I'm doing the whole project in English (sorry for the mistakes),
 And in the process also learning a little more about Git and GitHub.
+None of the exercises in this project were copied from the teacher's answer, all were done at the beginning of the studies, and are being remade on my own,
+So it is likely to be different from the answer the teacher shows in the video, but in no way does it escape requested in the statement.
 
 ## WORLD 01:
 ### First commands:

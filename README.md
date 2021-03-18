@@ -5,7 +5,7 @@ I remade all exercises from "Curso em Vídeo - Python" by Gustavo Guanabara.
 To add even more knowledge and make the most of my time, I'm doing the whole project in English (sorry for the mistakes),
 And in the process also learning a little more about Git and GitHub.
 None of the exercises in this project were copied from the teacher's answer, all were done at the beginning of the studies, and are being remade on my own,
-So it is likely to be different from the answer the teacher shows in the video, but in no way does it escape requested in the statement.
+so it is likely to be different from the answer the teacher shows in the video, but in no way does it escape requested in the statement.
 
 ## WORLD 01:
 ### First commands:

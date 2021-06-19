@@ -186,4 +186,13 @@ so it is likely to be different from the answer the teacher shows in the video, 
 	* NOTE: Consider that the cashier has bills of R$50, R$20, R$10, R$1.'
 		
 ## WORLD 03:
-###
+### Tuples:
+* Ex072: 'Create a program that has a fully populated tuple with a count in full, from zero to twenty
+	Your program should read a number from the keyboard (between 0 and 20) and display it in full.'
+* Ex073: 'Create a tuple filled with the top 20 from the Brazilian soccer league table, in the order of placement.
+	Then show:
+	* The first 5;
+	* The last 4 placed;
+	* Teams in alphabetical order;
+	* Wat position is the GRÊMIO team in.'
+* Ex074: '

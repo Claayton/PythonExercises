@@ -1,6 +1,6 @@
 # Ex115
-from ex115.funçoes import *
-from ex115.arquivo import *
+from arquivo import *
+from funçoes import *
 from time import sleep
 
 txt = 'cursoemvideo.txt'

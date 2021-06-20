@@ -1,4 +1,4 @@
-from ex115.funçoes import *
+from funçoes import *
 
 
 def arquivoexiste(nome):

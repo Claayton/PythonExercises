@@ -196,4 +196,16 @@ por isso é provável que seja diferente da resposta que o professor mostra no v
 	* Os 4 últimos colocados;
 	* Equipes em ordem alfabética;
 	* A posição de Wat é a equipe GRÊMIO dentro. '
-* Ex074: '
+* Ex074: 'Crie um programa que irá gerar cinco números aleatórios e colocá-los em uma tupla. Depois disso, mostre a linguagem numérica gerada e também indique os maiores e menores valores que estão na tupla. '
+* Ex075: 'Desenvolva um programa que leia quatro valores do teclado.
+	No final do show:
+	* Quantas vezes o valor p apareceu
+	* Em que posição o primeiro valor 3 foi digitado
+	* Quais foram os números pares. '
+* Ex076: 'Crie um programa que tenha uma tupla única com os nomes dos produtos e seus preços em sequência.
+No final, mostre uma lista de peças, organizando os dados em forma tabular. '
+* Ex077: 'Crie um programa que tenha uma tupla com várias palavras (não use acentos).
+Depois disso, você deve mostrar, para cada palavra, quais são suas vogais. '
+* Ex078: 'Faça um programa que leia 5 valores numéricos e os armazene em uma lista.
+No final mostra qual foi o maior e o menor valor inserido e suas respectivas posições na lista. '
+* Ex079: '

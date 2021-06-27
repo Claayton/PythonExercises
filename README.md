@@ -195,4 +195,16 @@ so it is likely to be different from the answer the teacher shows in the video, 
 	* The last 4 placed;
 	* Teams in alphabetical order;
 	* Wat position is the GRÊMIO team in.'
-* Ex074: '
+* Ex074: 'Create a program that will generate five random numbers and put them in a tuple. After that, show the generated number language and also indicate the largest and smallest values that are in the tuple.'
+* Ex075: 'Develop a program that reads four values from the keyboard.
+	At the end show:
+	* How many times did the value p appear
+	* In what position was the first value 3 typed
+	* What were the even numbers.'
+* Ex076: 'Create a program that has a unique tuple with product names and their prices in sequence.
+At the end, show a peice list, organizing the data in tabular form.'
+* Ex077: 'Create a program that has a tuple with several words (don't use accents).
+After that, you must show, for each word, wich are its vowel.'
+* Ex078: 'Make a program that reads 5 numerical values and stores them in a list.
+At the end show, which was the highest and lowest value entered and their respective positions in the list.'
+* Ex079: '

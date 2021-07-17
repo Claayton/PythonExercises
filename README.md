@@ -207,4 +207,19 @@ At the end, show a peice list, organizing the data in tabular form.'
 After that, you must show, for each word, wich are its vowel.'
 * Ex078: 'Make a program that reads 5 numerical values and stores them in a list.
 At the end show, which was the highest and lowest value entered and their respective positions in the list.'
-* Ex079: '
+* Ex079: 'Create a program where the user can type several numerical values and enter them in a list.
+If the number alrealy exists in there, it will not be added. At the end, all the numerical values entered will be displayed, in ascending order'
+* Ex080: 'Create a program where the user can type five numerical values, and enter them in a list,
+already in the correct insertion position (without using sort()).
+At the end show the ordered list on the screen.'
+* Ex081: 'Create a program that will read multiple numbers and put them in a list.
+	After that, show:
+	* A - How many numbers were figured.
+	* B - The list of values, ordered in descending order.
+	* C - If valor 5 is entered and is or in not in the list.
+* Ex082: 'Create a program that will read multiple numbers and put them in a list.
+After that, create two extra lists that will contain only the even values and the odd vlaues you typed, respectively.
+At the end, show the content of the generated lists.'
+* Ex083: 'Create a program where the user types any espression that uses parentheses.
+Your application should analyze where the expression passed has open and closed parentheses in the correct order.'
+* Ex084: '

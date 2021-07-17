@@ -208,4 +208,19 @@ No final, mostre uma lista de peças, organizando os dados em forma tabular. '
 Depois disso, você deve mostrar, para cada palavra, quais são suas vogais. '
 * Ex078: 'Faça um programa que leia 5 valores numéricos e os armazene em uma lista.
 No final mostra qual foi o maior e o menor valor inserido e suas respectivas posições na lista. '
-* Ex079: '
+* Ex079: 'Crie um programa onde o usuário pode digitar vários valores numéricos e inseri-los em uma lista.
+Se o número já existir lá, ele não será adicionado. Ao final, todos os valores numéricos inseridos serão exibidos, em ordem crescente'
+* Ex080: 'Crie um programa onde o usuário pode digitar cinco valores numéricos e inseri-los em uma lista,
+já na posição de inserção correta (sem usar sort ()).
+No final mostre a lista ordenada na tela.'
+* Ex081: 'Crie um programa que irá ler vários números e colocá-los em uma lista.
+	Depois disso, mostre:
+	* A - Quantos números foram calculados.
+	* B - A lista de valores, ordenados em ordem decrescente.
+	* C - Se o valor 5 for inserido e estiver ou não na lista.
+* Ex082: 'Crie um programa que irá ler vários números e colocá-los em uma lista.
+Depois disso, crie duas listas extras que conterão apenas os valores pares e os valores ímpares que você digitou, respectivamente.
+No final, mostre o conteúdo das listas geradas.'
+* Ex 083: 'Crie um programa onde o usuário digita qualquer expressão que use parênteses.
+Seu aplicativo deve analisar onde a expressão passada abriu e fechou os parênteses na ordem correta.'
+* Ex084: '

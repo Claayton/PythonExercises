@@ -205,6 +205,7 @@ so it is likely to be different from the answer the teacher shows in the video, 
 At the end, show a peice list, organizing the data in tabular form.'
 * Ex077: 'Create a program that has a tuple with several words (don't use accents).
 After that, you must show, for each word, wich are its vowel.'
+### Lists part 01:
 * Ex078: 'Make a program that reads 5 numerical values and stores them in a list.
 At the end show, which was the highest and lowest value entered and their respective positions in the list.'
 * Ex079: 'Create a program where the user can type several numerical values and enter them in a list.
@@ -222,4 +223,5 @@ After that, create two extra lists that will contain only the even values and th
 At the end, show the content of the generated lists.'
 * Ex083: 'Create a program where the user types any espression that uses parentheses.
 Your application should analyze where the expression passed has open and closed parentheses in the correct order.'
+### Lists part 02:
 * Ex084: '

@@ -206,6 +206,7 @@ por isso é provável que seja diferente da resposta que o professor mostra no v
 No final, mostre uma lista de peças, organizando os dados em forma tabular. '
 * Ex077: 'Crie um programa que tenha uma tupla com várias palavras (não use acentos).
 Depois disso, você deve mostrar, para cada palavra, quais são suas vogais. '
+### Listas parte 01:
 * Ex078: 'Faça um programa que leia 5 valores numéricos e os armazene em uma lista.
 No final mostra qual foi o maior e o menor valor inserido e suas respectivas posições na lista. '
 * Ex079: 'Crie um programa onde o usuário pode digitar vários valores numéricos e inseri-los em uma lista.
@@ -223,4 +224,5 @@ Depois disso, crie duas listas extras que conterão apenas os valores pares e os
 No final, mostre o conteúdo das listas geradas.'
 * Ex 083: 'Crie um programa onde o usuário digita qualquer expressão que use parênteses.
 Seu aplicativo deve analisar onde a expressão passada abriu e fechou os parênteses na ordem correta.'
+### Listas parte 02:
 * Ex084: '

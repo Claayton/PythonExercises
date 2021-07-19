@@ -1,3 +1,5 @@
+English | [Português](README_ptbr.md)
+
 # Resolving the exercises from "Curso em Vídeo - Python"
 
 As I have been in the learning process since the end of 2020, and to improve my knowledge of programming,

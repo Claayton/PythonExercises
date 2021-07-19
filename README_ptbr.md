@@ -1,3 +1,5 @@
+[English](README.md) | Português
+
 # Exercícios resolvidos do "Curso em Vídeo - Python"
 
 Estou em processo de aprendizagem desde o final de 2020, e para melhorar meu conhecimento de programação,

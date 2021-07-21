@@ -226,4 +226,13 @@ At the end, show the content of the generated lists.'
 * Ex083: 'Create a program where the user types any espression that uses parentheses.
 Your application should analyze where the expression passed has open and closed parentheses in the correct order.'
 ### Lists part 02:
-* Ex084: '
+* Ex084: 'Make a program that reads names and weights of several people, saving everything in a list.
+	At the end, show:
+	* A - How many people were registered.
+	* B - A list with the heaviest people.
+	* C - A listing with the lighter people.'
+* Ex085: 'Create a program where the user can enter seven numeric vlaues and enter them in a simgle list that keeps the odd and even vlaues separete.
+At the end, show the odd and even values in ascending order.'
+* Ex086: 'Create a program that creates a 3x3 dimensional matrix and fills it with read by keyboard.
+At the end, show the matrix on the screen, with the correct formatting.'
+* Ex087: '

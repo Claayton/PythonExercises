@@ -227,4 +227,13 @@ No final, mostre o conteúdo das listas geradas.'
 * Ex 083: 'Crie um programa onde o usuário digita qualquer expressão que use parênteses.
 Seu aplicativo deve analisar onde a expressão passada abriu e fechou os parênteses na ordem correta.'
 ### Listas parte 02:
-* Ex084: '
+* Ex084: 'Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista.
+	No final, mostre:
+	* A - Quantas pessoas foram cadastradas.
+	* B - Uma listagem com as pessoas mais pessadas.
+	* C - Uma listagem com as pessoas mais leves.'
+* Ex085: 'Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares.
+No final, mostre os valores pares e ímpares em ordem crescente.'
+* Ex086: 'Crie um programa que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado.
+No final, mostre a matriz na tela, com a formatação correta.'
+* Ex087: '

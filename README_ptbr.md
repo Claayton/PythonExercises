@@ -236,4 +236,10 @@ Seu aplicativo deve analisar onde a expressão passada abriu e fechou os parênt
 No final, mostre os valores pares e ímpares em ordem crescente.'
 * Ex086: 'Crie um programa que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado.
 No final, mostre a matriz na tela, com a formatação correta.'
-* Ex087: '
+* Ex087: 'Aprimore o desafio anterior, mostrando no final:
+	* A - A soma de todos os valores pares digitados.
+	* B - A soma dos valores da terceira coluna.
+	* C - O maior valor da segunda linha.'
+* Ex088: 'Faça um prorgama que ajude um jogador da MEGA-SENA a criar palpites.
+O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista.'
+* Ex089: '

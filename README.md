@@ -235,4 +235,10 @@ Your application should analyze where the expression passed has open and closed 
 At the end, show the odd and even values in ascending order.'
 * Ex086: 'Create a program that creates a 3x3 dimensional matrix and fills it with read by keyboard.
 At the end, show the matrix on the screen, with the correct formatting.'
-* Ex087: '
+* Ex087: 'Improve the previous challenge, showing at the end:
+	* A - The sum of all values entered.
+	* B - The sum of the values in the third column.
+	* C - The highest value in the second row.'
+* Ex088: 'Make a program that helps a MEGA-SENA player to create guesses.
+The program will ask how many games will be genereted and will draw 6 numbers between 1 and 60 for each game, registering everything in a list.'
+* Ex089: '

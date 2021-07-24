@@ -25,7 +25,8 @@ for c in range(0, games):
 cont = 0 
 for each in all_games:
     cont += 1
-    print(f'\033[35mGame {cont}: {each}\033[m')
+    print(f'\033[34mGame {cont:_<20}\033[m', end='')
+    print(f'\033[35m{each}\033[m')
     sleep(0.5)
 print('\033[35m=\033[m' * 50)
 print(f'\033[31m{"GOOD LUCK":^50}\033[m')

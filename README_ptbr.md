@@ -242,4 +242,13 @@ No final, mostre a matriz na tela, com a formatação correta.'
 	* C - O maior valor da segunda linha.'
 * Ex088: 'Faça um prorgama que ajude um jogador da MEGA-SENA a criar palpites.
 O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista.'
-* Ex089: '
+* Ex089: 'Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta.
+No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
+### Dicionários:
+* Ex090: 'Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário.
+No final, mostre o conteúdo da estrutura na tela.'
+* Ex091: 'Crie um programa onde 4 jogadores joguem um dado e tenham um resultado aleatório. Guarde esses resultados em um dicionário.
+No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.'
+* Ex092: 'Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre (com idade) em um dicionário,  se por acaso a CTPS for diferente de ZERO, o dicionário recererá também o ano de contratação e o salário.
+Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.'
+* Ex093: '

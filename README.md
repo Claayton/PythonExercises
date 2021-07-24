@@ -241,4 +241,14 @@ At the end, show the matrix on the screen, with the correct formatting.'
 	* C - The highest value in the second row.'
 * Ex088: 'Make a program that helps a MEGA-SENA player to create guesses.
 The program will ask how many games will be genereted and will draw 6 numbers between 1 and 60 for each game, registering everything in a list.'
-* Ex089: '
+* Ex089: 'Create a program that reads multiple student's names and two grades and stores them in a composite list.
+At the end, show a report containing the average of each one and allow the user to show the grades of each individual student.'
+### Dictionaries:
+* Ex090: 'Make a program that reads a student's name and average, also saving the situation in a dictionary.
+At the end, show the content os the structure on the screen.'
+* Ex091: 'Create a program where 4 players roll a die and have a random result.
+Store these results in a dictionary.
+At the end, put this dictionary in order, knowing that the winner rolled the highest number on the dice.'
+* Ex092: 'Create a program that reads name, year of birth and work card and registers (with age) in a dictionary, if by choice the CTPS is different from ZERO, the dictionary will also receive the year of employment and salary.
+Calculate and add, in addition to age, how old the person will retire at.'
+* Ex093: '

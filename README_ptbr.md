@@ -251,4 +251,14 @@ No final, mostre o conteúdo da estrutura na tela.'
 No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.'
 * Ex092: 'Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre (com idade) em um dicionário,  se por acaso a CTPS for diferente de ZERO, o dicionário recererá também o ano de contratação e o salário.
 Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.'
-* Ex093: '
+* Ex093: 'Crie um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do jogador e quantas partidas ele jogou. Depois vai ler a quantidade de gols feitos em cada partida.
+No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.'
+* Ex094: 'Crie um programa que leia nome, sexo e idade de várias pessoas, guarde os dados de cada pessoa em um dicionário e todos os dicionários em uma lista.
+	No final mostre:
+	* A - Quantas pessoas cadastradas
+	* B - A média de idade.
+	* C - Uma lista com mulheres.
+	* D - Uma lista com idade acima da média.'
+* Ex095: 'Aprimore o DESAFIO 093 para que funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.'
+### Funções  parte 01:
+* Ex096: '

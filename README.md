@@ -251,4 +251,15 @@ Store these results in a dictionary.
 At the end, put this dictionary in order, knowing that the winner rolled the highest number on the dice.'
 * Ex092: 'Create a program that reads name, year of birth and work card and registers (with age) in a dictionary, if by choice the CTPS is different from ZERO, the dictionary will also receive the year of employment and salary.
 Calculate and add, in addition to age, how old the person will retire at.'
-* Ex093: '
+* Ex093: 'Create a program that manages a football player's performance.
+The program will read the number of goals scored in each match.
+In the end, all will be stored in a dictionary, including the total goals scored during the championship.'
+* ex094: 'Create a program that reads multiple people's names, gendersm and ages, stores each person's data in a dictionary, and all dictionaries in a list.
+	At the end show:
+	* A - How many people registered
+	* B - The average age
+	* C - A list of womem
+	* D - An above-average age list.'
+* Ex095: 'Enhance CHALLENGE 093 to work with multiple players by incluidng a sistem to view each player's achievement details.'
+### Functions part 01:
+* Ex096: '

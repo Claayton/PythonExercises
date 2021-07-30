@@ -4,7 +4,7 @@
 team = []
 enjoyment = {}
 
-print('\033[35m><\033[m' * 30)
+print('\033[35m><\033[m' * 40)
 while True:
     enjoyment['Name'] = str(input("\033[32mPlayer's name: \033[m").title().strip())
     matches = int(input(f"\033[32mHow many games {enjoyment['Name']} played: \033[m"))
@@ -17,21 +17,30 @@ while True:
     while True:
         again = str(input('\033[34mDo you want to continue?\033[36m[S/N]\033[34m: \033[m').upper().strip())
         if again == 'S' or again == 'N':
-            print('\033[35m><\033[m' * 30)
+            print('\033[35m><\033[m' * 40)
             break
         else:
             print('\033[31mINVÁLID COMAND, TRY AGAIN! [S/N]\033[m')
     if again == 'N':
         break
 
-# FALTA TERMINAR AINDA
+print(f"\033[34m{'Cod':>5} {'Name':<24}{'Gols':<30}{'Total':<20}\033[m")
 
-for c, i, in enjoyment.items():
-    print(f'The field \033[32m{c}\033[m has the values \033[32m{i}\033[m')
-print('\033[35m><\033[m' * 30)
-print(f"The \033[32m{enjoyment['Name']}\033[m player played \033[32m{matches}\033[m matches")
-for c, i in enumerate(enjoyment['Gols']):
-    print(f'\033[31m    ->\033[m In match \033[32m{c}\033[m he scored \033[32m{i}\033[m gols')
-print(f"It was a total of \033[32m{enjoyment['Total']}\033[m gols.")
-print('\033[35m><\033[m' * 30)
+print('\033[35m--\033[m' * 40)
+for c, i in enumerate(team):
+    gols = f'{i["Gols"]}'
+    print(f"{c:>5} {i['Name']:<24}{gols:<30}{i['Total']:<20}")
+while True:
+    print('\033[35m--\033[m' * 40)
+    show = int(input("\033[34mShow which player's data? \033[31m[999 to stop]\033[34m: \033[m"))
+    if show == 999:
+        print('\033[32mOBRIGADO POR UTILIZAR O PROGRAMA, TCHAU!\033[m')
+        break
+    elif show > len(team) - 1:
+        print('\033[31mINVALID COMMAND, ENTER THE PLAYER CODE!\033[m')
+    else:
+        print(f"\033[31m>   \033[32mLevantamento do jogador \033[34m{team[show]['Name']}\033[32m:\033[m")
+        for c, i in enumerate(team[show]['Gols']):
+            print(f'\033[31m    >   \033[32mNo jogo \033[34m{c}\033[32m fez \033[34m{i}\033[32m Gols.\033[m')
+print('\033[35m><\033[m' * 40)
 print('\033[32mxD\033[m')

@@ -262,4 +262,5 @@ In the end, all will be stored in a dictionary, including the total goals scored
 	* D - An above-average age list.'
 * Ex095: 'Enhance CHALLENGE 093 to work with multiple players by incluidng a sistem to view each player's achievement details.'
 ### Functions part 01:
-* Ex096: '
+* Ex096: 'Made a program that has a function called area(), which receives the dimensions of a rectangular terrain (width and length) and shows the area of the terrain.'
+* Ex097: '

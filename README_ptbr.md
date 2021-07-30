@@ -261,4 +261,5 @@ No final, tudo isso será guardado em um dicionário, incluindo o total de gols 
 	* D - Uma lista com idade acima da média.'
 * Ex095: 'Aprimore o DESAFIO 093 para que funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.'
 ### Funções  parte 01:
-* Ex096: '
+* Ex096: 'Faça um programa que tenha uma função chamada área(), que receba as dimenções de um terreno retangular largura e comprimento) e mostre a área do terreno.'
+* Ex097: '

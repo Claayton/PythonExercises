@@ -263,4 +263,7 @@ In the end, all will be stored in a dictionary, including the total goals scored
 * Ex095: 'Enhance CHALLENGE 093 to work with multiple players by incluidng a sistem to view each player's achievement details.'
 ### Functions part 01:
 * Ex096: 'Made a program that has a function called area(), which receives the dimensions of a rectangular terrain (width and length) and shows the area of the terrain.'
-* Ex097: '
+* Ex097: 'Make a program taht has a function called write(), which takes any text as a parameter and displays a message with adatable size.'
+* Ex098: 'Make a program that has a function called larger(), which takes several integer-valued parameters.
+your program has to analyze all the highlights and say which one is the biggest.'
+* Ex100: '

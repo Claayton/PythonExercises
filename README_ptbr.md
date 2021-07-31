@@ -262,4 +262,12 @@ No final, tudo isso será guardado em um dicionário, incluindo o total de gols 
 * Ex095: 'Aprimore o DESAFIO 093 para que funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.'
 ### Funções  parte 01:
 * Ex096: 'Faça um programa que tenha uma função chamada área(), que receba as dimenções de um terreno retangular largura e comprimento) e mostre a área do terreno.'
-* Ex097: '
+* Ex097: 'Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.'
+* Ex098: 'Faça um programa que tenha uma função chamada contador(), que receba três parâmetros: Início, Fim e Passo.
+	Seu programa tem que realizar três contagens através da função criada:
+	* A - De 1 até 10, de 1 em 1
+	* B - De 10 até 0, de 2 em 2
+	* C - Uma contagem persoalidada.'
+* Ex099: 'Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros.
+Seu programa tem que analisar todos os claores e dizer quel deles é o maior.'
+* Ex100: '

@@ -5,13 +5,13 @@ from time import sleep
 def maior(* num):
     print('=' * 36)
     print('Analisando valores', end='   ')
-    print('\033[31mO ', end=''), sleep(0.5),
-    print('\033[32mO ', end=''), sleep(0.5),
-    print('\033[33mO ', end=''), sleep(0.5),
-    print('\033[34mO ', end=''), sleep(0.5),
-    print('\033[35mO ', end=''), sleep(0.5),
-    print('\033[36mO ', end=''), sleep(0.5),
-    print('\033[37mO ', end=''), print('\033[m')
+    print('\033[31mO ', end='', flush=True), sleep(0.5),
+    print('\033[32mO ', end='', flush=True), sleep(0.5),
+    print('\033[33mO ', end='', flush=True), sleep(0.5),
+    print('\033[34mO ', end='', flush=True), sleep(0.5),
+    print('\033[35mO ', end='', flush=True), sleep(0.5),
+    print('\033[36mO ', end='', flush=True), sleep(0.5),
+    print('\033[37mO ', end='', flush=True), print('\033[m')
 
     maior = 0
     cont = 0

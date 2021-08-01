@@ -14,6 +14,7 @@ def pyhelp():
         function = str(input('\033[mFuntion or library: '))
         if function.upper() == 'END':
             print(f'\033[7:41m{"End of the program, thanks for using!":^90}')
-        print(f'\033[7:45m{help(function).lower()}\033[m')
+            break
+        print(f'\033[7:45m{help(function)}\033[m')
 
 pyhelp()

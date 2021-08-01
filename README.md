@@ -264,6 +264,33 @@ In the end, all will be stored in a dictionary, including the total goals scored
 ### Functions part 01:
 * Ex096: 'Made a program that has a function called area(), which receives the dimensions of a rectangular terrain (width and length) and shows the area of the terrain.'
 * Ex097: 'Make a program taht has a function called write(), which takes any text as a parameter and displays a message with adatable size.'
-* Ex098: 'Make a program that has a function called larger(), which takes several integer-valued parameters.
+* Ex098: 'Make a program that has a function called counter(), which takes three parameters: Start, End and Step.
+	Your program has to performer three counts through the created function:
+	* A - From 1 to 10, from 1 to 1;
+	* B - From 10 to 0, every 2;
+	* C - A personalized count.'
+* Ex099: 'Make a program that has a function called larger(), which takes several integer-valued parameters.
 your program has to analyze all the highlights and say which one is the biggest.'
-* Ex100: '
+* Ex100: 'Make a program that has a list called numbers and two functions called draw() and even_sum.
+The first function will draw 5 numbers and place them into the list and the second function will show the sum of all PAIR values draw by the previous function.'
+### Functions part 02:
+* Ex101: 'Create a program that has a function called vote() that will receive as a parametes the year of birth of a person, returning a literal value indicating wheter a person has a DENID, OPTIONAL or MANDATORY vote in elections.'
+* Ex102: 'Create a program that has a factorial() function that takes two parameters :
+The first one that indicates the number to calculate and the other one called show, which will be a logical value (optional) indicating whether or not the factorial calculation process will be shown on the screen.'
+* Ex103: 'Make a program that has a function called token(), which takes two optional parameters: a player's name and how many goals he scored.
+The program must be able to show the player's record, even if some data has not been entered correctly.'
+* Ex104: 'Create a program that has the readint() function, which will work similarly to Python's input() function, except that it validates to accept only a numeric value.
+Ex: n = readint('Enter a number: ').'
+* Ex105: 'Make a program that has a notes() function that can receive multiples grades from students and it will return a dictionary with the following information:
+	- Number of notes;
+	- Te highest grade;
+	- The lowest grade;
+	- The average of the class;
+	- The situation (optional);
+	- Also add the docstrings.'
+* Ex106: 'Make a mini-system that uses Python's interactive help.
+The user will type the command and the manual will appear.
+When the user enters the word 'END', the program will terminate.
+NOTE: Use colors.'
+### Modules and Packeges:
+* Ex107: '

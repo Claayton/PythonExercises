@@ -10,7 +10,7 @@ Nenhum dos exercícios deste projeto foi copiado da resposta do professor, todos
 por isso é provável que seja diferente da resposta que o professor mostra no vídeo, mas todos estão dentro do objetivo da aula.
 
 ## MUNDO 01:
-### primeiros comandos:
+### Primeiros Comandos:
 * Ex001: ‘Crie um programa que escreva 'Olá Mundo' na tela.’
 * Ex002: ‘Faça um programa que leia o nome de uma pessoa, e mostre uma mensagem de bem vindo.’
 
@@ -299,4 +299,8 @@ Faça também um programa que importe esse módulo e use algumas dessas funçõe
 * Ex110: 'Adicione ao módulo moeda.py criado nos desafios anteriores, uma função chamada resumo(), que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.'
 * Ex111: 'Crie um pacote chamado utilidadesCeV que tenha dois módulos internos chamados moeda e dado.
 Transfira todas as fuções utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.'
-* Ex112: '
+* Ex112: 'Dentro do pacote utilidadesCeV que criamos nos desafio 111, temos um módulo chamado dado. Crie uma função chamada leiadinheiro() que seja capaz de funcionar como a função input(), mas com uma validação de dados para aceitar apenas valores que sejam monetários.'
+### Tratamento de Erros e Exceções:
+* Ex113: 'Reescreva a função leiaint() que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um número de tipo válido.
+Aproveite e crie também uma função leiafloat() com a mesma funcionalidade.'
+* Ex114: '

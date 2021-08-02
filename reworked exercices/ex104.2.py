@@ -8,10 +8,10 @@ def readint(message):
         number = str(input(message))
         if number.isnumeric():
             number = int(number)
-            return number
             break
         else:
             print('\033[31mINVALID COMMAND, PLEASE ENTER A VALID NUMBER\033[m')
+    return number
 
 number = readint('Enter a number: ')
 print(f'\033[32mYou just typed the number \033[35m{number}\033[32m.\033[m')

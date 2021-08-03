@@ -1,6 +1,0 @@
-Clayton;23
-Gustavo;45
-José;41
-Maria;85
-Théo;1
-Neinha;25

@@ -303,4 +303,7 @@ Transfira todas as fuções utilizadas nos desafios 107, 108 e 109 para o primei
 ### Tratamento de Erros e Exceções:
 * Ex113: 'Reescreva a função leiaint() que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um número de tipo válido.
 Aproveite e crie também uma função leiafloat() com a mesma funcionalidade.'
-* Ex114: '
+* Ex114: 'Crie um códico em Python que teste se o site "Pudim.com" está acessível pelo computador usado.'
+* Ex115: 'Crie um pequeno sistema modularizado que permita cadastrar pessoas pelo seu nome e idade em um arquivo de texto simples.
+O sistema só vai ter 2 opções: cadastrar uma nova pessoa e listar todas as pessoas cadastradas.'
+##

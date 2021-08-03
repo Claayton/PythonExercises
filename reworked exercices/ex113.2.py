@@ -6,14 +6,12 @@ def readint(message):
     while True:
         try:
             value = int(input(message))
-        except (ValueError, TypeError):
+        except (ValueError, TypeError, KeyboardInterrupt):
             print('\033[31mError, please enter a valid integer!\033[m')
             continue
-        except KeyboardInterrupt:
-            print('\033[31mUsuário preferiu não digitar esse número\033[m')
-            return 0
         else:
-            return value
+            break
+    return value
            
     
 
@@ -21,19 +19,21 @@ def readint(message):
 def readfloat(message):
     while True:
         try:
-            value = float(message)
-        except (ValueError, TypeError):
+            value = float(input(message))
+        except (ValueError, TypeError, KeyboardInterrupt):
             print('\033[31mError, please enter a valid real number!\033[m')
-        except KeyboardInterrupt:
-            print('\033[31mUsuário preferiu não digitar esse número\033[m')
-            return 0
+            continue
         else:
-            return value
+            break
+    return value       
 
-print(f'\033[7:40m{"="}\033[m' * 25)
-integer = readint('Enter an interger: ')
-floater = readfloat('Enter a real number: ')
-print(f'\033[7:40m{"="}\033[m' * 25)
+print(f'\033[7:40m{"="}\033[m' * 40)
+integer = readint('\033[32mEnter an interger: \033[m')
+print(f'\033[7:40m{"="}\033[m' * 40)
+floater = readfloat('\033[32mEnter a real number: \033[m')
+print(f'\033[7:40m{"="}\033[m' * 40)
+print(f'\033[34mThe integer value entered was \033[32m{integer}\033[34m and the real value was \033[32m{floater}\033[34m!\033[m')
+print(f'\033[7:40m{"="}\033[m' * 40)
 print('xD')
 
 

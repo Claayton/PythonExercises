@@ -305,4 +305,7 @@ Create a function called readmoney() that is capable of working like the input()
 ### Error and Exception Handling:
 * Ex113: 'Rewrite the readint() funciton we did in challenge 104, now including the possibility of typing a number of a valid type.
 Enjoy and also create a readfloat() function with the same functionality.'
-* Ex114: '
+* Ex114: 'Create a Python code that tests whether the "pudim.com" site is accessible by the computer being used.'
+* Ex115: 'Create a small modularized system that allows you to register people by name and age in a simple text file.
+The system will only have 2 options: register a new person and list all registered people.'
+##
